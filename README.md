@@ -3,14 +3,37 @@
 <!--
 **jaylor929/jaylor929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 你好，我是陈霁然 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋 关于我
+
+我是福州大学计算机与大数据学院的一名学生，目前大三。
+- 🎯 兴趣爱好：Taylor Swift女士十年老粉，喜欢听歌，喜欢阅读，喜欢弹钢琴
+- 📫 联系方式：3065195455@qq.com
+
+---
+
+## 🛠 专业技能与成果
+
+### 已掌握的知识与能力
+- 编程语言：C C++ python
+- 其他能力：一些基础科研能力
+
+### 专业相关实践经历
+- 参与过关于用LLM预测糖尿病并发症的项目，目前在探索graph learning
+
+### 自我评估
+- 感兴趣的技术方向：人工智能 / 机器学习
+- 最希望学习：深度学习
+
+---
+
+## 🚀 未来三年发展规划
+
+**我的目标是：考研 **
+
+**还是希望继续提升自我能力，相信在研究生阶段能看到不同的风景
+
+---
+
+⭐ 感谢访问我的主页！
